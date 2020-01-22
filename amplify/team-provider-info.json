@@ -1,0 +1,41 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-next-unicorn-prod-133156-authRole",
+            "UnauthRoleArn": "arn:aws:iam::671930051872:role/amplify-next-unicorn-prod-133156-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::671930051872:role/amplify-next-unicorn-prod-133156-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-next-unicorn-prod-133156-deployment",
+            "UnauthRoleName": "amplify-next-unicorn-prod-133156-unauthRole",
+            "StackName": "amplify-next-unicorn-prod-133156",
+            "StackId": "arn:aws:cloudformation:us-east-1:671930051872:stack/amplify-next-unicorn-prod-133156/8fc364e0-3d1b-11ea-9951-12dc156c2e93",
+            "AmplifyAppId": "d34r017hvp2sr6"
+        }
+    },
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-next-unicorn-test-133348-authRole",
+            "UnauthRoleArn": "arn:aws:iam::671930051872:role/amplify-next-unicorn-test-133348-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::671930051872:role/amplify-next-unicorn-test-133348-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-next-unicorn-test-133348-deployment",
+            "UnauthRoleName": "amplify-next-unicorn-test-133348-unauthRole",
+            "StackName": "amplify-next-unicorn-test-133348",
+            "StackId": "arn:aws:cloudformation:us-east-1:671930051872:stack/amplify-next-unicorn-test-133348/d29e1c10-3d1b-11ea-96cf-0a3fc8cbcb75",
+            "AmplifyAppId": "d34r017hvp2sr6"
+        }
+    },
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-next-unicorn-dev-133520-authRole",
+            "UnauthRoleArn": "arn:aws:iam::671930051872:role/amplify-next-unicorn-dev-133520-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::671930051872:role/amplify-next-unicorn-dev-133520-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-next-unicorn-dev-133520-deployment",
+            "UnauthRoleName": "amplify-next-unicorn-dev-133520-unauthRole",
+            "StackName": "amplify-next-unicorn-dev-133520",
+            "StackId": "arn:aws:cloudformation:us-east-1:671930051872:stack/amplify-next-unicorn-dev-133520/09acce40-3d1c-11ea-8c3b-12d8771823f5",
+            "AmplifyAppId": "d34r017hvp2sr6"
+        }
+    }
+}
