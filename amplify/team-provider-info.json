@@ -36,6 +36,11 @@
             "StackName": "amplify-next-unicorn-dev-133520",
             "StackId": "arn:aws:cloudformation:us-east-1:671930051872:stack/amplify-next-unicorn-dev-133520/09acce40-3d1c-11ea-8c3b-12d8771823f5",
             "AmplifyAppId": "d34r017hvp2sr6"
+        },
+        "categories": {
+            "auth": {
+                "nextunicornf4e76e09": {}
+            }
         }
     }
 }
